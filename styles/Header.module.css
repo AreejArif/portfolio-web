@@ -1,3 +1,15 @@
 .__header___container {
-  background-color: red;
+  overflow: hidden;
+  background-color: #d9d9d9;
+  padding: 30px 10px;
+  font-family: "Roboto";
+}
+
+/* Style the header links */
+.__header___container a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  border-radius: 4px;
 }
